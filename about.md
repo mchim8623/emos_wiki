@@ -1,50 +1,84 @@
 # WHY？
 因为聊天 群里话没说对 被杀神ban没了 虽然也没号 再加上那段时间 ac卡了 
+
 那就自己开服追国漫吧
+
 区区开服又没意思 资源和别人的都一样 大家都在卷直连 数量啥
+
 而我自己又没资源
+
 而恰好 zn服那段时间开放挂载了
+
 因为很多服宵禁 连ban啥 禁止讨论其他服内容 截图得打码服务器地址啥的
+
 这不 这个服就诞生了
 ```
 emby + oasis = emos
 ```
 就是回归最纯粹的观影
+
 你来不来群里不重要 你用什么看的也不重要
+
 只要你看的开心 记得emos和背后支持他的人 这就够了
+
 让有观影需求的人了解到emby 了解到大家的服
+
 就像星空大佬的wiki一样
+
 你想看的如果那个服没有 那就不是好服
+
 自己找资源又很难 那就大家公建
+
 我们每个人都贡献一份自己微薄的力量 那这是不是就成为一个绿洲了？
+
 这个服 之所以不限制用户 没开号限制
+
 因为他和其他的emby服不一样 并不存在用户多了卡和服务器带宽不够
+
 毕竟 外面有个cf onedrive 等大善人在
+
 内有 115 pt 磁力中转等
+
 我们就回归最简单的观影 打开电视机 点击播放 其余的都不想 这就足够了
 
-#入群须知
+
+# 入群须知
 本服不强制入群 目前采用网页端管理 一切还在起步 如果您一定要入群 请按照以下指引处理：
+
 1.首先，请从https://emos.lol 注册您的账号
-2.然后通过https://emos.lol/#/home进行绑定您的第三方账号
-> :memo: **注意：** 为安全起见 现在需绑定2个及以上账号才能入群（当然 Telegram账号是必须绑定的）
+
+2.然后通过https://emos.lol/#/home 进行绑定您的第三方账号
+
+> 📝**注意：** 为安全起见 现在需绑定2个及以上账号才能入群（当然 Telegram账号是必须绑定的）
 
 3.打开您的telegram 点击https://t.me/emospg_bot 进行操作
+
 4.使用命令/join 按机器人指引操作即可
 
-> :bulb: **提示：** 如果你懒得绑定TG账号 您可以通过私信管理员进行人工操作 （https://t.me/Love_benghuai3 、https;//t.me/sp666730 、https;//t.me/llily666888 、https://t.me/jack_cco 、https;//t.me/Play_with_puppets_bot 、https://t.me/DisIllusion_Asuka_bot 、https://t.me/juzi_s 、http;//t.me/yangsanliang_bot  、https://t.me/sorakand 、https://t.me/studygogogo_bot 、https://t.me/iiffuuvv 、https://t.me/allisbestBot 、https://t.me/xiyuliu_bot 、 https://t.me/LXi_111Bot 、https://t.me/wmxsjl_bot 、https://t.me/kongcheng888_bot ）
+> 📢 **提示：** 如果你懒得绑定TG账号 您可以通过私信管理员进行人工操作
+> （https://t.me/Love_benghuai3 、https;//t.me/sp666730 、https;//t.me/llily666888 、https://t.me/jack_cco 、https;//t.me/Play_with_puppets_bot 、https://t.me/DisIllusion_Asuka_bot 、https://t.me/juzi_s 、http;//t.me/yangsanliang_bot  、https://t.me/sorakand 、https://t.me/studygogogo_bot 、https://t.me/iiffuuvv 、https://t.me/allisbestBot 、https://t.me/xiyuliu_bot 、 https://t.me/LXi_111Bot 、https://t.me/wmxsjl_bot 、https://t.me/kongcheng888_bot ）
 
 # 本服定位？
 不知道是哪位前辈分为了两个大类 **硬盘** 与 **网盘** 服
+
 这个服 **比起来** 更偏向于 **硬盘服**
+
 准确的来说 使用的 **R2** 云盘储存 下一步是适配 **emby** 协议了
+
 至于内容定位 追新 开放用户自主上传 并以金钱的形式奖励上传用户
+
 再基于时间以及观看次数等去删除老资源
+
 至于名字 我更想称呼他为 **绿洲** 简称 **绿服**
+
 也不会有那些条条框框的限制
+
 > 像禁止某些客户端播放啦
+> 
 > 像退出群组后再次加不进去啦啥的
+> 
 > 像多少天内有活动或播放记录啥的
+> 
 > 像同时登录设备 播放数量啦
 
 统统都没有！这点大家可以放心！
@@ -52,20 +86,33 @@ emby + oasis = emos
 
 # 这服的设计思路
 据说  **开服最怕被攻击** 
+
 所以都隐藏了服务器地址啥的
+
 当然 我也怕
+
 如果可以 还请手下留情
+
 不过按照我这个思路 应该能扛住
+
 资源存放在  **R2** 
+
 接口用的  **Workers**  作为兼容处理
+
 再次感谢  **cf** 大善人
+
 后面准备再处理下图片跳转
 
 # 目前资源情况
 主要定位的是追新
+
 基于这个设计
-有很大概率会有人恰好上传了你想看的资源
+
+有很大概率会有人**恰好上传了你想看的资源**
+
 当然 如果没有 也不要灰心
+
 提到求片区 等待大佬出手
+
 或者 自己成为大佬 手动上传
 
