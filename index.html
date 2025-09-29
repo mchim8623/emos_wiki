@@ -1,72 +1,154 @@
-<div align="center">
-   <img src="https://www.helloimg.com/i/2025/09/29/68da53879039b.jpg" alt="描述" />
-</div>
-<p align="center"><strong>欢迎访问emos服wiki！</strong></p>
-<p align="center"><strong>这个服很简单 就是让各位把自己的资源拿出来 我们拼一个服出来 然后enjoy就行了.....</strong></p>
-<br>
-<style>
-    a.link-btn {
-        color: #fff;
-        background: #337ab7;
-        display:inline-block;
-        border: 1px solid #2e6da4;        
-        font: bold 14px Arial, sans-serif;
-        text-decoration: none;
-        border-radius: 2px;
-        padding: 6px 20px;
-    }
-    a.link-btn:hover {
-        background-color: #245582;
-        border-color: #1a3e5b;
-    }
-</style>
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Emos服Wiki</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            background-color: #f5f5f5;
+            padding: 15px;
+        }
+        
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            background-color: white;
+            border-radius: 8px;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+            padding: 20px;
+        }
+        
+        .header {
+            text-align: center;
+            margin-bottom: 20px;
+        }
+        
+        .header img {
+            max-width: 100%;
+            height: auto;
+            border-radius: 6px;
+        }
+        
+        .description {
+            text-align: center;
+            margin: 20px 0;
+            padding: 0 10px;
+        }
+        
+        .description p {
+            margin-bottom: 15px;
+        }
+        
+        .buttons {
+            display: flex;
+            flex-direction: column;
+            gap: 15px;
+            margin-top: 25px;
+        }
+        
+        .link-btn {
+            color: #fff;
+            display: block;
+            text-align: center;
+            font: bold 16px Arial, sans-serif;
+            text-decoration: none;
+            border-radius: 4px;
+            padding: 12px 20px;
+            transition: all 0.3s ease;
+            border: none;
+        }
+        
+        .link-btn:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+        }
+        
+        .btn-blue {
+            background: #337ab7;
+            border: 1px solid #2e6da4;
+        }
+        
+        .btn-blue:hover {
+            background-color: #245582;
+            border-color: #1a3e5b;
+        }
+        
+        .btn-red {
+            background: #ff2121;
+            border: 1px solid #d40000;
+        }
+        
+        .btn-red:hover {
+            background-color: #d40000;
+            border-color: #a80000;
+        }
+        
+        .btn-black {
+            background: #000000;
+            border: 1px solid #333;
+        }
+        
+        .btn-black:hover {
+            background-color: #333;
+            border-color: #555;
+        }
+        
+        /* 桌面端样式 */
+        @media (min-width: 768px) {
+            body {
+                padding: 30px;
+            }
+            
+            .container {
+                padding: 30px;
+            }
+            
+            .buttons {
+                flex-direction: row;
+                justify-content: center;
+            }
+            
+            .link-btn {
+                flex: 1;
+                max-width: 200px;
+            }
+        }
+        
+        /* 小屏幕手机优化 */
+        @media (max-width: 360px) {
+            .link-btn {
+                font-size: 14px;
+                padding: 10px 15px;
+            }
+        }
+    </style>
 </head>
 <body>
-    <div style="text-align: center;">
-        <a href="/about" class="link-btn">快速了解emos</a>
+    <div class="container">
+        <div class="header">
+            <img src="https://www.helloimg.com/i/2025/09/29/68da53879039b.jpg" alt="Emos服宣传图" />
+        </div>
+        
+        <div class="description">
+            <p><strong>欢迎访问emos服wiki！</strong></p>
+            <p><strong>这个服很简单 就是让各位把自己的资源拿出来 我们拼一个服出来 然后enjoy就行了.....</strong></p>
+        </div>
+        
+        <div class="buttons">
+            <a href="/about" class="link-btn btn-blue">快速了解emos</a>
+            <a href="/join" class="link-btn btn-red">加入emos</a>
+            <a href="/condolences" class="link-btn btn-black">为其他倒闭公益服默哀......</a>
+        </div>
     </div>
 </body>
-<style>
-    a.link-btn {
-        color: #fff;
-        background: #ff2121;
-        display:inline-block;
-        border: 1px solid #2e6da4;        
-        font: bold 14px Arial, sans-serif;
-        text-decoration: none;
-        border-radius: 2px;
-        padding: 6px 20px;
-    }
-    a.link-btn:hover {
-        background-color: #245582;
-        border-color: #1a3e5b;
-    }
-</style>
-</head>
-<body>
-    <div style="text-align: center;">
-        <a href="/join" class="link-btn">加入emos</a>
-    </div>
-</body>
-<style>
-    a.link-btn {
-        color: #fff;
-        background: #000000;
-        display:inline-block;
-        border: 1px solid #2e6da4;        
-        font: bold 14px Arial, sans-serif;
-        text-decoration: none;
-        border-radius: 2px;
-        padding: 6px 20px;
-    }
-    a.link-btn:hover {
-        background-color: #245582;
-        border-color: #1a3e5b;
-    }
-</style>
-</head>
-<body>
-    <div style="text-align: center;">
-        <a href="/condolences" class="link-btn">为其他倒闭公益服默哀......</a>
-    </div>
-</body>
+</html>
