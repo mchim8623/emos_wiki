@@ -56,16 +56,16 @@ emby + oasis = emos
 4.使用命令/join 按机器人指引操作即可
 
 > 📢 **提示：** 如果你懒得绑定TG账号 您可以通过私信管理员进行人工操作
-> （https://t.me/Love_benghuai3 、https;//t.me/sp666730 、https;//t.me/llily666888 、https://t.me/jack_cco 、https;//t.me/Play_with_puppets_bot 、https://t.me/DisIllusion_Asuka_bot 、https://t.me/juzi_s 、http;//t.me/yangsanliang_bot  、https://t.me/sorakand 、https://t.me/studygogogo_bot 、https://t.me/iiffuuvv 、https://t.me/allisbestBot 、https://t.me/xiyuliu_bot 、 https://t.me/LXi_111Bot 、https://t.me/wmxsjl_bot 、https://t.me/kongcheng888_bot ）
+> （https://t.me/Love_benghuai3 )
 
 # 本服定位？
-不知道是哪位前辈分为了两个大类 **硬盘** 与 **网盘** 服
+不知道是哪位前辈将emby服分为了两个大类 **硬盘** 与 **网盘** 服
 
 这个服 **比起来** 更偏向于 **硬盘服**
 
 准确的来说 使用的 **R2** 云盘储存 下一步是适配 **emby** 协议了
 
-至于内容定位 追新 开放用户自主上传 并以金钱的形式奖励上传用户
+至于内容定位嘛 追新 开放用户自主上传 并以金钱的形式奖励上传用户
 
 再基于时间以及观看次数等去删除老资源
 
