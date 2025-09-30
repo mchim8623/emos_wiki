@@ -128,6 +128,8 @@ emby + oasis = emos
 
 | 播放器名称 | 目前支持状态 |
 | :--- | :--- |
+| Emby 官方客户端 | 不兼容 |
+| Emby 官方小秘版 | 不兼容 |
 | yamby | 兼容 |
 | senplayer | 不兼容 |
 | vidhub | 未测试 |
