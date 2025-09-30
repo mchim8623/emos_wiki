@@ -124,4 +124,17 @@ emby + oasis = emos
 （目前为2025.9.30版）
 ![list](https://www.helloimg.com/i/2025/09/30/68db3d8c90ba0.png)
 
+| 播放器名称 | 目前支持状态 |
+| :--- | :--- |
+| yamby | 兼容 |
+| senplayer | 不兼容 |
+| vidhub | 未测试 |
+| 网易爆米花 | 兼容但是不建议 |
+| Afusekt | 未测试 |
+| hills | 兼容 |
+| femor | 不兼容 |
+| filebar | 不兼容 |
+| lenna | 不兼容 |
+| 小幻影视 | 未测试 (可能兼容 暂时没有report) |
+
 **补充：目前对infuse、Forword、Reflix不兼容 自行更换播放器**
