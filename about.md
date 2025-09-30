@@ -140,5 +140,6 @@ emby + oasis = emos
 | filebar | 不兼容 |
 | lenna | 不兼容 |
 | 小幻影视 | 未测试 (可能兼容 暂时没有report) |
-
-**补充：目前对infuse、Forword、Reflix不兼容 自行更换播放器**
+| infuse | 不兼容 |
+| Forward | 不兼容 |
+| Refilx | 不兼容 |
