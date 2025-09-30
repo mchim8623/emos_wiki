@@ -122,6 +122,6 @@ emby + oasis = emos
 未列出的请自行测试 不能连接请登录[wiki的github项目](https://github.com/mchim8623/emos_wiki)提交issues
 此表格长期更新！请各位留意最新资料！
 （目前为2025.9.30版）
-![list](https://www.helloimg.com/i/2025/09/30/68db31dd71776.png)
+![list](https://www.helloimg.com/i/2025/09/30/68db3d8c90ba0.png)
 
 **补充：目前对infuse、Forword、Reflix不兼容 自行更换播放器**
