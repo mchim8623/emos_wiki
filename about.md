@@ -123,4 +123,4 @@ emby + oasis = emos
 此表格长期更新！请各位留意最新资料！
 （目前为2025.9.30版）
 ![list](https://www.helloimg.com/i/2025/09/30/68db31dd71776.png)
-**补充：目前对infuse不兼容 自行更换播放器**
+**补充：目前对infuse、Forword、Reflix不兼容 自行更换播放器**
