@@ -119,4 +119,7 @@ emby + oasis = emos
 # 目前对各播放器适配情况
 
 鉴于市面上的播放器五花八门 但我们精力有限 不可能都进行适配 所以请使用以下列表中标明**兼容**的软件进行连接！
-![list](https://www.helloimg.com/i/2025/09/30/68db2d598838f.png)
+未列出的请自行测试 不能连接请登录[wiki的github项目](https://github.com/mchim8623/emos_wiki)提交issues
+此表格长期更新！请各位留意最新资料！
+（目前为2025.9.30版）
+![list](https://www.helloimg.com/i/2025/09/30/68db31dd71776.png)
