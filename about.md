@@ -128,23 +128,23 @@ emby + oasis = emos
 
 | 播放器名称 | 目前支持状态 |
 | :--- | :--- |
-| Emby 官方客户端 | 不兼容 |
-| Emby 官方小秘版 | 不兼容 |
-| yamby | 兼容 |
-| senplayer | 不兼容 |
-| vidhub | 未测试 |
-| 网易爆米花 | 兼容但是不建议 |
-| Afusekt | 未测试 |
-| hills | 兼容 |
-| femor | 不兼容 |
-| filebar | 不兼容 |
-| lenna | 不兼容 |
-| 小幻影视 | 未测试 (可能兼容 暂时没有report) |
-| infuse | 不兼容 |
-| Forward | 不兼容 |
-| Refilx | 不兼容 |
+| Emby 官方客户端 | ❌ 不兼容 |
+| Emby 官方小秘版 | ❌ 不兼容 |
+| Yamby | ✅ 兼容 |
+| Senplayer | ❌ 不兼容 |
+| Vidhub | ❔ 未测试 |
+| 网易爆米花 | ⚠️ 兼容但是不建议 |
+| Afusekt | ❔ 未测试 |
+| Hills | ✅ 兼容 |
+| Femor | ❌ 不兼容 |
+| Filebar | ❌ 不兼容 |
+| Lenna | ❌ 不兼容 |
+| 小幻影视 | ✅ 兼容 |
+| Infuse | ❌ 不兼容 |
+| Forward | ❌ 不兼容 |
+| Refilx | ❌ 不兼容 |
 
-关于为啥不兼容 编辑认为腐竹说的比较在理：
+关于为啥不兼容，编辑认为腐竹说的比较在理：
 
 ![难绷](https://www.helloimg.com/i/2025/09/30/68db62bedd872.png)
 
