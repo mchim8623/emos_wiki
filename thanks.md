@@ -12,3 +12,5 @@
 [刺猬兽：我写的wiki 给自己加个贡献不过分吧......](https://t.me/Herissmon2016)
 
 [感谢vanplus大佬对wiki的修正和添加~](https://t.me/virmach_mjj) 
+
+[修改兼容性列表 感谢Ploom Tech大佬付出~](https://github.com/mchim8623/emos_wiki/commit/e463c27ecc2923a1130aaf16dcd8f875329106b2)
